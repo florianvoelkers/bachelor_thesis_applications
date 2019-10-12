@@ -1,0 +1,27 @@
+﻿  Application.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\EC_Demo\src\EC\Entity.hpp(79,64): warning C4244:  "Argument": Konvertierung von "_Ty" in "float", möglicher Datenverlust
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\EC_Demo\src\EC\Entity.hpp(79,64): warning C4244:         with
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\EC_Demo\src\EC\Entity.hpp(79,64): warning C4244:         [
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\EC_Demo\src\EC\Entity.hpp(79,64): warning C4244:             _Ty=double
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\EC_Demo\src\EC\Entity.hpp(79,64): warning C4244:         ]
+  ComponentClasses.cpp
+  EC_Demo.cpp
+  Model.cpp
+  Renderer.cpp
+  Code wird generiert...
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\EC_Demo\src\Application.cpp(133): message :  Siehe Verweis auf die gerade kompilierte Instanziierung "void Entity::AddComponent<AvoidPredator,Entity*,double,float>(Entity *&&,double &&,float &&)" der Funktions-Vorlage.
+glfw3.lib(context.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(context.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(init.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(init.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(input.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(input.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(monitor.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(monitor.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(vulkan.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(window.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(window.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_init.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_joystick.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_monitor.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_time.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_tls.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_window.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(wgl_context.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(egl_context.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\glfw.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+  EC_Demo.vcxproj -> C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\Bachelor_Demo_EC\EC_Demo\x64\Debug\EC_Demo.exe

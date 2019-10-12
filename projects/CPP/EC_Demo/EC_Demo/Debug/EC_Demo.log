@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_EC\EC_Demo\EC_Demo\libs\glad\src\glad.c(25,10): error C1083:  Datei (Include) kann nicht geöffnet werden: "glad/glad.h": No such file or directory

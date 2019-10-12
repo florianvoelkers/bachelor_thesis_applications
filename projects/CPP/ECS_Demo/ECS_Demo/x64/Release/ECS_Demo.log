@@ -1,0 +1,30 @@
+﻿  Application.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(17,1): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(32): message : Siehe Verweis auf die gerade kompilierte Instanziierung "int ComponentCreate<T>(std::vector<char,std::allocator<char>> &,EntityHandle,BaseComponent *)" der Funktions-Vorlage.
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(32): message :         with
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(32): message :         [
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(32): message :             T=TransformComponent
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(32): message :         ]
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Component.hpp(11): message : beim Kompilieren des statischen Klasse Vorlage-Datenmembers "const int Component<TransformComponent>::ID"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\Components\TransformComponent.hpp(8): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "Component<TransformComponent>".
+LINK : warning LNK4098: Standardbibliothek "MSVCRTD" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  2 of 2415 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+glfw3.lib(context.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(context.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(init.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(init.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(input.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(input.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(monitor.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(monitor.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(vulkan.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(window.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(window.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_init.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_joystick.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_monitor.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_time.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_tls.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(win32_window.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(wgl_context.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB "glfw.pdb" wurde nicht mit "glfw3.lib(egl_context.obj)" oder an "C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\glfw.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  ECS_Demo.vcxproj -> C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\x64\Release\ECS_Demo.exe

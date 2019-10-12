@@ -1,0 +1,39 @@
+﻿  glad.c
+  glm.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  Application.cpp
+  BaseComponent.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\BaseComponent.hpp(35,13): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+  ECS.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\BaseComponent.hpp(35,13): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\BaseComponent.hpp(35,13): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(11,25): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(15,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(25,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(38,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(53,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(60,26): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(93,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(108,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(134,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(146,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(153,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(159,25): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+  SystemList.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\ECS.cpp(181,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\BaseComponent.hpp(35,13): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+  ECS_Demo.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\SystemList.cpp(5,24): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+  ImGuiLayer.cpp
+  Mesh.cpp
+  Model.cpp
+  Renderer.cpp
+  Shader.cpp
+  Window.cpp
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\ECS_Demo\src\ECS\BaseComponent.hpp(35,13): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+BaseComponent.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""private: static class std::vector<class std::tuple<int (__cdecl*)(class std::vector<char,class std::allocator<char> > &,void *,struct BaseComponent *),void (__cdecl*)(struct BaseComponent *),unsigned int>,class std::allocator<class std::tuple<int (__cdecl*)(class std::vector<char,class std::allocator<char> > &,void *,struct BaseComponent *),void (__cdecl*)(struct BaseComponent *),unsigned int> > > * BaseComponent::componentTypes" (?componentTypes@BaseComponent@@0PAV?$vector@V?$tuple@P6AHAAV?$vector@DV?$allocator@D@std@@@std@@PAXPAUBaseComponent@@@ZP6AX2@ZI@std@@V?$allocator@V?$tuple@P6AHAAV?$vector@DV?$allocator@D@std@@@std@@PAXPAUBaseComponent@@@ZP6AX2@ZI@std@@@2@@std@@A)".
+C:\Users\Flo\Documents\BachelorThesis\Bachelor_Demo_ECS\ECS_Demo\Release\ECS_Demo.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
